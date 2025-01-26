@@ -22,7 +22,7 @@ export const OurExpert = async () => {
                 <div className="py-8 border-b flex gap-12 items-center border-neutral-700">
                   <div className="h-[90px] w-[90px] shrink-0 relative">
                     <Image
-                      src="/images/alysson.jpg"
+                      src="/images/alysson1.jpg"
                       alt="Expert Image"
                       width={90}
                       height={90}
