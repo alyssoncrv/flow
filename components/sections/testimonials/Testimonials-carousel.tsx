@@ -33,7 +33,7 @@ export const TestimonialsCarousel = (users: any) => {
             <div className="flex gap-6 items-center sm:flex-row flex-col ">
               <div className="h-[56px] w-[56px] shrink-0 relative">
                 <Image
-                  src="/images/alysson1.png"
+                  src="/images/alysson1.jpg"
                   alt="Expert Image"
                   width={90}
                   height={90}
