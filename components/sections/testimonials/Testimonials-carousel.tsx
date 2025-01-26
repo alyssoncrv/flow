@@ -33,7 +33,7 @@ export const TestimonialsCarousel = (users: any) => {
             <div className="flex gap-6 items-center sm:flex-row flex-col ">
               <div className="h-[56px] w-[56px] shrink-0 relative">
                 <Image
-                  src={user.image}
+                  src="/images/alysson1.png"
                   alt="Expert Image"
                   width={90}
                   height={90}
@@ -42,7 +42,7 @@ export const TestimonialsCarousel = (users: any) => {
               </div>
               <div className="flex flex-col gap-2 sm:flex-row justify-between w-full">
                 <div className="text-black flex flex-col ">
-                  <h3 className="text-sub-title">{user.heading}</h3>
+                  <h3 className="text-sub-title">Alysson Carvalho</h3>
                   <p className="text-black text-sm opacity-90">
                     {user.tagline}{" "}
                   </p>
