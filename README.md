@@ -4,18 +4,18 @@
 
 <h2>🚀 Stack</h2>
 <div style="display: inline_block">
-  <img align="center" alt="Alysson-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/nex-original.svg">
-  <img align="center" alt="Alysson-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/tailwind-original.svg">
+  <img align="center" alt="Alysson-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/nex-original.svg">
+  <img align="center" alt="Alysson-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
 </div>
 
 <h2>📷 Screenshots:</h2>
 
 <h3>V0.1</h3>
 
-<img src="/img/screenshot2.png">
+<img src="/images/screenshot2.png"">
 
 <h3>V0.2</h3>
 
-<img src="/img/screenshot.png">
+<img src="/images/screenshot.png"">
 
-Made with 🤍 by <a href="https://github.com/alyssoncrv/" target="_blank">Alysson Carvalho</a></p>
+Made with 🤍 by <a href="https://github.com/alyssoncrv/" target="_blank">Alysson Carvalho</a>
